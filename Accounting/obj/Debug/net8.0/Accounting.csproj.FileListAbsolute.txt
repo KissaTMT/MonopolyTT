@@ -1,0 +1,14 @@
+C:\Users\ethan\source\repos\Accounting\Accounting\bin\Debug\net8.0\Accounting.exe
+C:\Users\ethan\source\repos\Accounting\Accounting\bin\Debug\net8.0\Accounting.deps.json
+C:\Users\ethan\source\repos\Accounting\Accounting\bin\Debug\net8.0\Accounting.runtimeconfig.json
+C:\Users\ethan\source\repos\Accounting\Accounting\bin\Debug\net8.0\Accounting.dll
+C:\Users\ethan\source\repos\Accounting\Accounting\bin\Debug\net8.0\Accounting.pdb
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.AssemblyInfoInputs.cache
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.AssemblyInfo.cs
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.csproj.CoreCompileInputs.cache
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.dll
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\refint\Accounting.dll
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.pdb
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.genruntimeconfig.cache
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\ref\Accounting.dll
