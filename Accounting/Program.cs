@@ -36,7 +36,7 @@ public class Program
         for (var i = 0; i < 365; i++)
         {
             controller.AddTransaction(wallet.Name, new Transaction(new DateTime(2025, new Random().Next(1, 13), new Random().Next(1, 28)), new Random().Next(100, 1000)
-                , new Random().NextDouble() > 0.5 ? TransactionType.Income : TransactionType.Expense));
+                ,new Random().NextDouble() > 0.5 ? TransactionType.Income : TransactionType.Expense));
         }
     }
     private static void GetGroupTransactionsByMonth(WalletController controller, Wallet wallet)

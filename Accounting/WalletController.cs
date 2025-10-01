@@ -13,19 +13,18 @@
         public void AddWallet(Wallet wallet) => _wallets.Add(wallet.Name, wallet);
         public bool RemoveWallet(Wallet wallet)
         {
-            if(_wallets.ContainsKey(wallet.Name) == false) return false;
-            _wallets.Remove(wallet.Name);
-            return true;
+            return RemoveWallet(wallet.Name);
+        }
+        public bool RemoveWallet(string walletName)
+        {
+            if (_wallets.ContainsKey(walletName) == false) throw new ArgumentException($"Wallet with name: {walletName} does nit exist ");
+            return _wallets.Remove(walletName);
         }
         public bool AddTransaction(string walletName, Transaction transaction)
         {
-            if(_wallets.ContainsKey(walletName) == false)
-            {
-                return false;
-            }
+            if (_wallets.ContainsKey(walletName) == false) throw new ArgumentException($"Wallet with name: {walletName} does nit exist ");
 
-            _wallets[walletName].AddTransaction(transaction);
-            return true;
+            return _wallets[walletName].AddTransaction(transaction);
         }
 
         public decimal GetMonthlyIncome(string walletName, Month month)

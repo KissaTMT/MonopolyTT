@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|solutionrelative:accounting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|c:\\users\\ethan\\source\\repos\\accounting\\accounting\\transactiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|solutionrelative:accounting\\transactiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|c:\\users\\ethan\\source\\repos\\accounting\\accounting\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|solutionrelative:accounting\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|c:\\users\\ethan\\source\\repos\\accounting\\accounting\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|solutionrelative:accounting\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|c:\\users\\ethan\\source\\repos\\accounting\\accounting\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|solutionrelative:accounting\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|c:\\users\\ethan\\source\\repos\\accounting\\accounting\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|solutionrelative:accounting\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|c:\\users\\ethan\\source\\repos\\accounting\\accounting\\transactiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C6F9D97-5B85-4E92-AFDF-6C2E696153D9}|Accounting\\Accounting.csproj|solutionrelative:accounting\\transactiongroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,52 +38,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "WalletController.cs",
               "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\WalletController.cs",
               "RelativeDocumentMoniker": "Accounting\\WalletController.cs",
               "ToolTip": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\WalletController.cs",
               "RelativeToolTip": "Accounting\\WalletController.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAUwEMAAABlAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvyUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T13:28:41.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "TransactionGroup.cs",
               "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\TransactionGroup.cs",
               "RelativeDocumentMoniker": "Accounting\\TransactionGroup.cs",
               "ToolTip": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\TransactionGroup.cs",
               "RelativeToolTip": "Accounting\\TransactionGroup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T10:43:47.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\Transaction.cs",
               "RelativeDocumentMoniker": "Accounting\\Transaction.cs",
               "ToolTip": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\Transaction.cs",
               "RelativeToolTip": "Accounting\\Transaction.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA7wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T09:35:04.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Wallet.cs",
               "DocumentMoniker": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\Wallet.cs",
               "RelativeDocumentMoniker": "Accounting\\Wallet.cs",
               "ToolTip": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\Wallet.cs",
               "RelativeToolTip": "Accounting\\Wallet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv0kAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T09:31:21.568Z",
               "EditorCaption": ""
@@ -96,7 +96,7 @@
               "RelativeDocumentMoniker": "Accounting\\Program.cs",
               "ToolTip": "C:\\Users\\ethan\\source\\repos\\Accounting\\Accounting\\Program.cs",
               "RelativeToolTip": "Accounting\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAQwB8AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAYwCwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T09:27:21.674Z",
               "EditorCaption": ""

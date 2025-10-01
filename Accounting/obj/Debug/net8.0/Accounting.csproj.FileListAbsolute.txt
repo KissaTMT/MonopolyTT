@@ -12,3 +12,4 @@ C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\refint\Accoun
 C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.pdb
 C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.genruntimeconfig.cache
 C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\ref\Accounting.dll
+C:\Users\ethan\source\repos\Accounting\Accounting\obj\Debug\net8.0\Accounting.sourcelink.json

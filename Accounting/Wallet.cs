@@ -72,7 +72,7 @@
                     TotalAmount = i.Sum(i => i.Amount),
                     Transactions = i.OrderBy(i => i.DateTime).ToList()
                 })
-                .OrderByDescending(g => g.TotalAmount)
+                .OrderByDescending(i => i.TotalAmount)
                 .ToList();
         }
         public decimal GetTotalAmountTransactions(DateTime start, DateTime end, TransactionType type)
